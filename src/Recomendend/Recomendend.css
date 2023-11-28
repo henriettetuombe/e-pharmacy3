@@ -1,0 +1,25 @@
+.Recomendend-btns {
+    display: flex;
+    margin-left: 20rem;
+    font-family: sans-serif;
+  }
+  
+  .Recommendend-title {
+    margin-left: 20rem;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+    font-size: 20px;
+    font-family: sans-serif;
+  }
+  
+  .btns {
+    padding: 10px 20px;
+    margin-right: 6px;
+    background: transparent;
+    border: none;
+    border: 0.6px solid #ccc;
+    border-radius: 5px;
+    color: #323242;
+    cursor: pointer;
+    font-family: sans-serif;
+  }

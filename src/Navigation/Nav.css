@@ -1,0 +1,63 @@
+nav {
+    display: flex;
+    border-bottom: 2px solid #f3f3f3;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px; /* Removed the extra space */
+    z-index: 999;
+    /* Removed margin-left: 2rem; to center the navigation */
+  }
+  
+  input {
+    padding: 12px 20px;
+    border: none;
+    background: #f7f6f6;
+    outline: none;
+    margin-right: 20px;
+    border-radius: 5px;
+    position: relative;
+    width: 14rem;
+  }
+  
+  .nav-icons {
+    width: 1.5rem;
+    height: 1.5rem;
+    margin-left: 2rem;
+    color: black;
+  }
+  
+  /* Media query for responsiveness */
+  @media (max-width: 768px) {
+    nav {
+      flex-direction: column;
+      align-items: flex-end; /* Align navigation to the right */
+    }
+  
+    input {
+      margin: 10px 0; /* Add some margin between input elements */
+      width: 100%; /* Take up the full width */
+    }
+  
+    .nav-icons {
+      margin-left: 0; /* Reset margin for icons */
+    }
+  }
+  nav img{
+    width: 6.6rem;
+    height: 2.6rem;
+    margin-left:-160px;
+    cursor:pointer;
+  }
+  /* Nav.css */
+
+nav {
+  display: flex;
+  align-items: center;
+}
+
+a img {
+  display: block;
+  /* Add other styling as needed */
+}
+
+/* Add any other styles for the rest of your navigation */
