@@ -9,7 +9,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "50",
     company: "Cerave",
-    color: "white",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -20,7 +20,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "100",
     company: "Aveeno",
-    color: "red",
+    color: "0-5",
     category: "BabyCare",
   },
 
@@ -32,7 +32,7 @@ const data = [
     prevPrice: "$10,00",
     newPrice: "5",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -43,7 +43,7 @@ const data = [
     prevPrice: "$80,00",
     newPrice: "70",
     company: "Dove",
-    color: "black",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -54,7 +54,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "200",
     company: "Light Yes",
-    color: "green",
+    color: "18-30",
     category: "Persinal Care",
   },
   {
@@ -65,7 +65,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "50",
     company: "Aromatherapy",
-    color: "black",
+    color: "18-30",
     category: "Home Essentials",
   },
 
@@ -77,7 +77,7 @@ const data = [
     prevPrice: "$50,00",
     newPrice: "30",
     company: "Cerelac",
-    color: "white",
+    color: "6-10",
     category: "BabyCare",
   },
 
@@ -89,7 +89,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "200",
     company: "LTD",
-    color: "green",
+    color: "18-30",
     category: "Health Concerns",
   },
 
@@ -101,7 +101,7 @@ const data = [
     prevPrice: "$80,00",
     newPrice: "10",
     company: "LTD",
-    color: "blue",
+    color: "18-30",
     category: "Health Concerns",
   },
 
@@ -113,7 +113,7 @@ const data = [
     prevPrice: "$10,00",
     newPrice: "7",
     company: "LTD",
-    color: "green",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -124,7 +124,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "34",
     company: "Clear blue LTD",
-    color: "red",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -135,7 +135,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "150",
     company: "Therm LTD",
-    color: "black",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -146,7 +146,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "150",
     company: "Brace ltd",
-    color: "white",
+    color: "18-30",
     category: "Health Concerns",
   },
   {
@@ -157,7 +157,7 @@ const data = [
     prevPrice: "$10,00",
     newPrice: "2",
     company: "Hospital",
-    color: "black",
+    color: "18-30",
     category: "Health Concerns",
   },
 
@@ -169,7 +169,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "100",
     company: "Gel ltd",
-    color: "green",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -180,7 +180,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "100",
     company: "Reboot ltd",
-    color: "red",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -191,7 +191,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "100",
     company: "Sugarfree",
-    color: "white",
+    color: "11-17",
     category: "Personal Care",
   },
   {
@@ -202,7 +202,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "100",
     company: "Tea",
-    color: "blue",
+    color: "Above 30",
     category: "Personal Care",
   },
   {
@@ -213,7 +213,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "50",
     company: "ctg ltd",
-    color: "black",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -224,7 +224,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "50",
     company: "Vnb ltd",
-    color: "black",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -235,7 +235,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "100",
     company: "uhg ltd",
-    color: "black",
+    color: "18-Above",
     category: "Personal Care",
   },
   {
@@ -246,7 +246,7 @@ const data = [
     prevPrice: "$14,00",
     newPrice: "15",
     company: "Nhk ltd",
-    color: "red",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -257,7 +257,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "200",
     company: "YESS ltd",
-    color: "red",
+    color: "Above 30",
     category: "Personal Care",
   },
 
@@ -269,7 +269,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "200",
     company: "tooth ltd",
-    color: "black",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -280,7 +280,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "50",
     company: "IU Ltd",
-    color: "black",
+    color: "18-30",
     category: "Health Concerns",
   },
   {
@@ -291,7 +291,7 @@ const data = [
     prevPrice: "$140,00",
     newPrice: "150",
     company: "Ear Oil ltd",
-    color: "white",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -302,7 +302,7 @@ const data = [
     prevPrice: "$60,00",
     newPrice: "50",
     company: "Labello",
-    color: "black",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -313,7 +313,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Monitor",
-    color: "black",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -324,7 +324,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "50",
     company: "AHCC",
-    color: "black",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -335,7 +335,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "perfume",
-    color: "black",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -346,7 +346,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "20",
     company: "Choice Kids Water Bottle",
-    color: "black",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -357,7 +357,7 @@ const data = [
     prevPrice: "$300,00",
     newPrice: "500",
     company: "Monitor",
-    color: "black",
+    color: "0-5",
     category: "BabyCare",
   },
   {
@@ -368,7 +368,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Monitor",
-    color: "black",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -379,7 +379,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "26",
     company: "Monitor",
-    color: "black",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -390,7 +390,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "19",
     company: "Monitor",
-    color: "black",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -401,7 +401,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "600",
     company: "Monitor",
-    color: "black",
+    color: "18-30",
     category: "Health Condition",
   },
   {
@@ -412,7 +412,7 @@ const data = [
     prevPrice: "$300,00",
     newPrice: "500",
     company: "Monitor",
-    color: "black",
+    color: "18-30",
     category: "Home Essentials",
   },
   {
@@ -423,7 +423,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "55",
     company: "Monitor",
-    color: "black",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -434,7 +434,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Women Care",
   },
   {
@@ -445,7 +445,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "50",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -456,7 +456,7 @@ const data = [
     prevPrice: "$300,00",
     newPrice: "100",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -467,7 +467,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "600",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -478,7 +478,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "200",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -489,7 +489,7 @@ const data = [
     prevPrice: "$1000,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -500,7 +500,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "700",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -511,7 +511,7 @@ const data = [
     prevPrice: "$1000,00",
     newPrice: "200",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -522,7 +522,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "200",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -533,7 +533,7 @@ const data = [
     prevPrice: "$400,00",
     newPrice: "200",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Concerns",
   },
   {
@@ -544,7 +544,7 @@ const data = [
     prevPrice: "$500,00",
     newPrice: "100",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "BabyCare",
   },
   {
@@ -555,7 +555,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "800",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Device",
   },
   {
@@ -566,7 +566,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "900",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -577,7 +577,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -588,7 +588,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Device",
   },
   {
@@ -599,7 +599,7 @@ const data = [
     prevPrice: "$1000,00",
     newPrice: "900",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -610,7 +610,7 @@ const data = [
     prevPrice: "$1000,00",
     newPrice: "44",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -621,7 +621,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "50",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Condition",
   },
   {
@@ -632,7 +632,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "44",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Condition",
   },
   {
@@ -643,7 +643,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "23",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Condition",
   },
   {
@@ -654,7 +654,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "50",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Personal Care",
   },
   {
@@ -665,7 +665,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "100",
     company: "Always",
-    color: "green",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -676,7 +676,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "600",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "BabyCare",
   },
   {
@@ -687,7 +687,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "200",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "BabyCare",
   },
   {
@@ -698,7 +698,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "50",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "BabyCare",
   },
   {
@@ -709,7 +709,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -720,7 +720,7 @@ const data = [
     prevPrice: "$300,00",
     newPrice: "57",
     company: "Always",
-    color: "green",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -731,7 +731,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Home Essentials",
   },
   {
@@ -742,7 +742,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "900",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Home Essentials",
   },
   {
@@ -753,7 +753,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -764,7 +764,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Concerns",
   },
   {
@@ -775,7 +775,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "20",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Concerns",
   },
   {
@@ -786,7 +786,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "80",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Women Care",
   },
   {
@@ -797,7 +797,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "25",
     company: "Always",
-    color: "green",
+    color: "18-30",
     category: "Health Concerns",
   },
   {
@@ -808,7 +808,7 @@ const data = [
     prevPrice: "$300,00",
     newPrice: "100",
     company: "Always",
-    color: "green",
+    color: "6-10",
     category: "BabyCare",
   },
   {
@@ -819,7 +819,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -830,7 +830,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "800",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Concerns",
   },
   {
@@ -841,7 +841,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "80",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Personal Care",
   },
   {
@@ -852,7 +852,7 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "500",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -863,7 +863,7 @@ const data = [
     prevPrice: "$1000,00",
     newPrice: "800",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -874,7 +874,7 @@ const data = [
     prevPrice: "$200,00",
     newPrice: "100",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
   },
   {
@@ -885,8 +885,74 @@ const data = [
     prevPrice: "$100,00",
     newPrice: "800",
     company: "Always",
-    color: "green",
+    color: "Above 30",
     category: "Health Device",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/61TD9pgaI5L._SX679_PIbundle-3,TopRight,0,0_AA679SH20_.jpg",
+    title: "NIDO Fortificada Dry Whole Milk",
+    star: <AiFillStar className="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$600,00",
+    newPrice: "100",
+    company: "Always",
+    color: "18-30",
+    category: "Personal Care",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/6182WfBtyNL._AC_SX569_.jpg",
+    title: "Kids Constipation Relief ",
+    star: <AiFillStar className="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$200,00",
+    newPrice: "300",
+    company: "Always",
+    color: "6-10",
+    category: "BabyCare",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/81CaYzQ2EYL._AC_SX466_.jpg",
+    title: "Organic Vegan Protein Powder",
+    star: <AiFillStar className="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$400,00",
+    newPrice: "300",
+    company: "Always",
+    color: "18-30",
+    category: "Personal Care",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/51izbTk2CVL._SX679_.jpg",
+    title: "Amazing Grass Kidz Superfood",
+    star: <AiFillStar className="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$400,00",
+    newPrice: "500",
+    company: "Always",
+    color: "6-10",
+    category: "BabyCare",
+  },
+  {
+  img: "https://m.media-amazon.com/images/I/51izbTk2CVL._SX679_.jpg",
+  title: "Natural Factors Stress-Relax Pharma",
+  star: <AiFillStar className="rating-star" />,
+  reviews: "(123 reviews)",
+  prevPrice: "$400,00",
+  newPrice: "700",
+  company: "Always",
+  color: "6-10",
+  category: "BabyCare",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/71QfJyvoOEL._AC_SX569_PIbundle-120,TopRight,0,0_SH20_.jpg",
+    title: "Natural Factors Stress-Relax Pharma",
+    star: <AiFillStar className="rating-star" />,
+    reviews: "(123 reviews)",
+    prevPrice: "$200,00",
+    newPrice: "100",
+    company: "Always",
+    color: "6-10",
+    category: "BabyCare",
   },
 ];
 
